@@ -32,16 +32,16 @@ particular product variable to be predicted
 
 ## **How to Run**
 
-Create new env using below command:
-conda create -n env_name python==3.6.9
-Activate your envirnment
-conda activate env_name
-Install requriments.txt file
-Create MongoDB Database
-Add your mongodb code under logger file & dbOperation file
-Run your app.py file name
-python app.py
-Enter your values and predict the single prediction
+- Create new env using below command:
+- conda create -n env_name python==3.6.9
+- Activate your envirnment
+- conda activate env_name
+- Install requriments.txt file
+- Create MongoDB Database
+- Add your mongodb code under logger file & dbOperation file
+- Run your app.py file name
+- python app.py
+- Enter your values and predict the single prediction
 
 
 
